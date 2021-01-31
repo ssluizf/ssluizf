@@ -1,4 +1,4 @@
-### Hello there 🌎💢
+### Hello buddy
 ---
 My name is Luiz Fernando. I'm studying Python, Node.js and React. My repos is the place where you can find my ideas and insterests.
 
