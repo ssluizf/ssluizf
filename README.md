@@ -1,8 +1,10 @@
-### Hello buddy
----
-My name is Luiz Fernando. I'm studying Python, Node.js and React. My repos is the place where you can find my ideas and insterests.
+# Hello buddy
+My name is Luiz Fernando. Lately I've been studying Node.js and React. Focusing on building Frontend pages with responsive designs.
 
-Enjoy
+My repositories is the place where you can find my ideas and interests.
+Please enjoy the visit!
+
+Also, you can find my medias below:
 
 [![Linkedin Badge](https://img.shields.io/badge/-@ssluizf-3f51b5?style=flat-square&labelColor=3f51b5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ssluizf/)](https://www.linkedin.com/in/ssluizf/)
 [![Facebook Badge](https://img.shields.io/badge/-@ssluizf-3f51b5?style=flat-square&labelColor=3f51b5&logo=facebook&logoColor=white&link=https://www.facebook.com/ssluizf)](https://www.facebook.com/ssluizf)
