@@ -1,4 +1,4 @@
-# Hello buddy
+# Hello World
 My name is Luiz Fernando. Lately I've been studying Node.js and React. Focusing on building Frontend pages with responsive designs.
 
 My repositories is the place where you can find my ideas and interests.
