@@ -7,4 +7,4 @@ I'm a front-end engineer studying web frameworks like React and Vue, with a grow
 [Linkedin](https://www.linkedin.com/in/ssluizf/)<br/>
 [Instagram](https://www.instagram.com/ssluizf/)<br/>
 
-Feel free to checkout my projects and profile links with you wish : )
+Feel free to checkout my projects and profile links if you wish : )
